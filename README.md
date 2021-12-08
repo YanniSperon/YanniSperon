@@ -6,7 +6,7 @@ My name is Yanni Speron, I am a sophomore undergraduate computer science student
 If you have any inquiries or would like to get in contact, please feel free to reach out to one of the following:<br><br>
 [Email](yannisperon@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/yanni-speron)<br>
-[Website](https://www.yannisperon.com)
+[Website](https://yannisperon.com)
 
 <!--
 **YanniSperon/YanniSperon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
