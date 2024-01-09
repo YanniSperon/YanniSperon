@@ -5,6 +5,7 @@
 <br>
 <br>
 If you have any inquiries or would like to get into contact, please feel free to reach out to one of the following:<br><br>
+
 [Email](yannisperon@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/yanni-speron)<br>
 [Website](https://yannisperon.com)
